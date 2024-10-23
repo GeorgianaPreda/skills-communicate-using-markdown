@@ -9,3 +9,9 @@ Check out the following code snippet!
 var a = 2 + 2;
 var b = a + 5;
 ```
+
+Tasks
+- [x] Read 30 mins
+- [x] Take out the trash
+- [ ] Vacuum the living room
+- [ ] Take out the dog
